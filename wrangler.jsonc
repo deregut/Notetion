@@ -27,7 +27,7 @@
       "binding": "DB",
       "database_name": "notetion-db",
       // TODO(deploy): replace with real id — `npx wrangler d1 create notetion-db`
-      "database_id": "00000000-0000-4000-8000-000000000000",
+      "database_id": "677d68b5-26ca-415c-b36d-1fe5fd33fb39",
       "migrations_dir": "migrations"
     }
   ],
@@ -36,7 +36,7 @@
     {
       "binding": "FILES_KV",
       // TODO(deploy): replace with real id — `npx wrangler kv namespace create FILES_KV`
-      "id": "00000000000000000000000000000000"
+      "id": "a9b8d10912b84446a5c6ba829204c9a3"
     }
   ],
 
